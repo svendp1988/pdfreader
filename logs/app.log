@@ -1,0 +1,12 @@
+2021-03-27 21:04:05,226 ERROR b.p.j.App [main] transactions.csv
+2021-03-27 21:05:31,161 ERROR b.p.j.App [main] transactions.csv
+2021-03-27 21:05:52,098 ERROR b.p.j.App [main] transactions.csv
+2021-03-27 21:06:08,532 ERROR b.p.j.App [main] ./transactions.csv
+2021-03-27 21:11:04,239 ERROR b.p.j.App [main] resources/transactions.csv
+2021-03-27 21:11:34,535 ERROR b.p.j.App [main] java.nio.file.NoSuchFileException: resources/transactions.csv
+2021-03-27 21:27:20,187 ERROR b.p.j.App [main] Expected 3 arguments: File URL, Month, Year.
+2021-03-28 08:11:09,396 ERROR b.p.j.App [main] java.text.ParseException: Unparseable number: "NAN"
+2021-03-28 08:53:23,143 ERROR b.p.j.App [main] java.text.ParseException: Unparseable number: "NAN"
+2021-03-28 08:54:22,269 ERROR b.p.j.App [main] java.text.ParseException: Unparseable number: "NAN"
+2021-03-28 08:57:39,223 ERROR b.p.j.App [main] java.text.ParseException: Unparseable number: "NAN"
+2021-03-28 09:02:25,945 ERROR b.p.j.App [main] java.text.ParseException: Unparseable number: "NAN"
